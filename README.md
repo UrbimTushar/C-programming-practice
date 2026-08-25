@@ -1,1 +1,2 @@
-# C-programing-practice
+# C-programming-practice 
+Author-Urbim Tushar Bora 
