@@ -4,8 +4,8 @@
 
 int main(void)
 {
-    string name[]={"david" ,"urbim" ,"trishna" ,"alok"};
-    string number[]={"9957725183" ,"9876543320" ,"6200617156" ,"5643728835"};
+    string name[]={"david" ,"urbim" ,"trishna" ,"alok" , "pulock"};
+    string number[]={"9957725183" ,"9876543320" ,"6200617156" ,"5643728835" ,"9876543210"};
 
         string search=get_string("name: ");
         for(int i=0; i < 4 ; i++)
